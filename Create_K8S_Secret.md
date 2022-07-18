@@ -33,6 +33,6 @@ If the creation was successful you should see the following output:
 secret/regcred created
 ```
 
-In the SAP BTP, Kyma console UI, navigate to you namespace and you should see the secret being created withing the **Configuration/Secret** menu:
+In the SAP BTP, Kyma console UI, navigate to your chosen namespace (or `default` if you haven't set one up specifically) and you should see the secret created within the **Configuration/Secret** menu:
 
 ![Kubernetes Secret](/images/Kyma_Secret.png)
